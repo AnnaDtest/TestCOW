@@ -60,4 +60,12 @@ public class Robot extends IterativeRobot {
 	 private double orch_B_Left_Mag 	=  0.0;
 	 private double orch_B_Left_Dir	 	=  0.0;
 	 private double orch_B_Left_Rot 	=  0.0;
-	
+
+//ADDED
+// Orchestration A Right INSERT  Variables
+     // Magnitude (speed), Direction (degrees), Rotation (Turning) 
+	 private double orch_A_Right_Time 	=  3.5;
+	 //added
+	 private double orch_A_Right_Mag 	= -0.4;
+	 private double orch_A_Right_Dir	=  0.0;
+	 private double orch_A_Right_Rot 	=  0.0;
