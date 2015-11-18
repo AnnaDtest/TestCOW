@@ -39,11 +39,12 @@ public class Robot extends IterativeRobot {
 	 private double autoSpeedStop			=  0;
 	 
 	 
-//MY EDIT FOR GETHUB
- // Autonomous Orchestration Variables 
+//MY EDITS FOR DEMONSTRATING GETHUB 
+ // Autonomous Orchestration Variables - this is a test
 	 
 	 // Stop Mecanum Variable for all orchestrations left, right, center
 	 private double stop_mecanum_Mag 	=  0.0;
+	 //added for demonstration
 	 private double stop_mecanum_Dir	=  0.0;
 	 private double stop_mecanum_Rot 	=  0.0;
 	 
