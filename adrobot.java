@@ -38,4 +38,25 @@ public class Robot extends IterativeRobot {
 	 private double autoInitialUpSpeed 		= -0.3;
 	 private double autoSpeedStop			=  0;
 	 
+	 
+//MY EDIT FOR GETHUB
+ // Autonomous Orchestration Variables 
+	 
+	 // Stop Mecanum Variable for all orchestrations left, right, center
+	 private double stop_mecanum_Mag 	=  0.0;
+	 private double stop_mecanum_Dir	=  0.0;
+	 private double stop_mecanum_Rot 	=  0.0;
+	 
+	 // Orchestration A Left Variables 
+	 // Magnitude (speed), Direction (degrees), Rotation (Turning) 
+	 private double orch_A_Left_Time 	=  3.0;
+	 private double orch_A_Left_Mag 	= -0.4;
+	 private double orch_A_Left_Dir	 	=  0.0;
+	 private double orch_A_Left_Rot 	=  0.0;
+	 
+	 //  Orchestration B  Left Variables 
+	 private double orch_B_Left_Time 	=  0.0;
+	 private double orch_B_Left_Mag 	=  0.0;
+	 private double orch_B_Left_Dir	 	=  0.0;
+	 private double orch_B_Left_Rot 	=  0.0;
 	
