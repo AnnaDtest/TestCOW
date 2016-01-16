@@ -1,4 +1,4 @@
-@author - rv
+ * ANNA TEST OF ECLIPSE AND GITHUB
  *  @version  1.00 01/10/2015
  *  
  *  team #   -- 3944
